@@ -1,4 +1,4 @@
-// Copyright (C) 2017 Space Monkey, Inc.
+// Copyright (C) 2018
 
 package main
 
